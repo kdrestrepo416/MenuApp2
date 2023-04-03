@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MenuApp</string>
+    <string name="item1">Opción 1</string>
+    <string name="item2">Opción 2</string>
+    <string name="item3">Opcion 3</string>
+
+    <string name="txt_codigo">Codigo Producto</string>
+    <string name="txt_descripcion">Descripcion del Producto</string>
+    <string name="txt_precio">Precio del Producto</string>
+    <string name="BotonRegistrar">Registrar Producto</string>
+    <string name="BotonBuscar">Buscar Producto</string>
+    <string name="BotonEliminar">Eliminar Producto</string>
+    <string name="BotonModificar">Modificar Producto</string>
+
+</resources>
